@@ -55,6 +55,6 @@
 [![](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
-[![](https://github-readme-stats.vercel.app/api?username=yanghan1999&title_color=ff69b4&text_color=718096&bg_color=ffffff00&icon_color=87ceeb&show_icons=true)](https://github.com/yanghan1999)
+[![](https://github-readme-stats.vercel.app/api?username=not-trace&title_color=ff69b4&text_color=718096&bg_color=ffffff00&icon_color=87ceeb&show_icons=true)](https://github.com/not-trace)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yanghan1999&title_color=ff69b4&text_color=718096&icon_color=87ceeb&bg_color=ffffff00)](https://github.com/yanghan1999)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=not-trace&title_color=ff69b4&text_color=718096&icon_color=87ceeb&bg_color=ffffff00)](https://github.com/not-trace)
