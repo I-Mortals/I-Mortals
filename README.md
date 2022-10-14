@@ -55,13 +55,13 @@
 [![](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
-[![](https://github-readme-stats.vercel.app/api?username=not-trace&title_color=ff69b4&text_color=718096&bg_color=ffffff00&icon_color=87ceeb&show_icons=true)](https://github.com/I-Mortals)
+[![](https://github-readme-stats.vercel.app/api?username=I-Mortals&title_color=ff69b4&text_color=718096&bg_color=ffffff00&icon_color=87ceeb&show_icons=true)](https://github.com/I-Mortals)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=not-trace&title_color=ff69b4&text_color=718096&icon_color=87ceeb&bg_color=ffffff00)](https://github.com/I-Mortals)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Mortals&title_color=ff69b4&text_color=718096&icon_color=87ceeb&bg_color=ffffff00)](https://github.com/I-Mortals)
 
 # [网站导航](https://imortals.cn/)
 
-**not-trace/not-trace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I-Mortals/I-Mortals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
